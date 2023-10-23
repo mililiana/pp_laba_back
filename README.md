@@ -12,8 +12,10 @@ Run this command - * `git clone https://github.com/mililiana/pp_laba_back.git`
 
 ## Environment requirements
 
-To deploy a server we need to run a nest command in terminal *`pip freeze > requirements.txt`
-All the dependencies will be availible in the requirements.txt, if you do nott have them just run a command `pip install <name_of_dependency>`
+To install the packages according to the configuration file `requirements.txt` use this command below
+
+*`pip install -r requirements.txt`
+
 
 ## Launch the server
 
